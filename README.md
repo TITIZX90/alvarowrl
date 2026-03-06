@@ -1,26 +1,25 @@
-# 👩🏻‍💻 Álvaro Miguel
+## Hello world👋
+
+<!--
+**Vitorpopbryy/Vitorpopbryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+# 👩🏻‍💻 Vitor Pupim
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou cursando Sistemas de Informação no IFSP-Votuporanga. Sou apaixonado por tecnologia, compartilho meus conhecimentos e desafios no perfil do LinkedIn [Álvaro Miguel](https://www.linkedin.com/in/álvaro-miguel-1b4606331/).
+Me chamo Vitor Pupim, tenho 16 anos e sou natural de São Paulo. Faço o ensino médio em escola publica juntamente com o curso técnico informática para Internet integrado no ensino medio na ETEC. Armando José Farinazzo em Fernandópolis-SP. gosto de tecnologia,jogos,piscadas e Cs2.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
-        <img 
-            alt="linkedin" 
-            title="Conecte-se" 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/alvarowrl/">
-        <img 
-            alt="insta" 
-            title="Me siga!!!" 
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a> 
-    
-</p>
 
 ---
 
@@ -58,30 +57,7 @@ Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SpringBoot"
-    title="SpringBoot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git"
